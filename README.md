@@ -4,6 +4,8 @@ An autonomous agent that monitors your stock portfolio, fetches live market data
 
 ## 📬 What You Get Every Morning
 
+![FinPulse Daily Report](screenshots/demo.png)
+
 A daily email with:
 - **Portfolio performance** — current value, day change, total P&L for each holding
 - **AI-generated analysis** — explains *why* your portfolio moved, connecting stock movements to recent news
