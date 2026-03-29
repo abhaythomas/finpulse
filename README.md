@@ -1,4 +1,4 @@
-# 📊 FinPulse — AI-Powered Daily Portfolio Report Agent
+# 📊 FinPulse — AI-Powered Daily Portfolio Report Agent.
 
 An autonomous agent that monitors your stock portfolio, fetches live market data and news, generates AI-powered analysis, and delivers a beautiful HTML report to your inbox every morning — fully automated, zero cost.
 
